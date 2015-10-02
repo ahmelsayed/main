@@ -1,3 +1,3 @@
 [submodule "folder/sub/submodule"]
 	path = folder/sub/submodule
-	url = git@github.com:ahmelsayed/submodule.git
+	url = https://github.com/ahmelsayed/submodule.git
